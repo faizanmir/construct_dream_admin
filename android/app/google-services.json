@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "510831335763",
+    "firebase_url": "https://construct-c9852.firebaseio.com",
+    "project_id": "construct-c9852",
+    "storage_bucket": "construct-c9852.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510831335763:android:615ce46d3bd2e29fd5a9a6",
+        "android_client_info": {
+          "package_name": "kjf.construct_dream_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510831335763-kgoiinqebv0finvbdidcpsl6hs1vf9mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkWOP79VlJQ3A0VaeKloRAsbumJToa08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510831335763-kgoiinqebv0finvbdidcpsl6hs1vf9mf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510831335763-115te0sqtvlb9m3bf55e1f8gqt4doikb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kjf.constructDreamAdmin"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:510831335763:android:f6b7e736b15ca208d5a9a6",
+        "android_client_info": {
+          "package_name": "kjf.constructdream"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "510831335763-3cqgrc67c8hrl75aguasmdmfkeqri3qe.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "kjf.constructdream",
+            "certificate_hash": "30d04281056f68f449ce1519a324912cce82d97c"
+          }
+        },
+        {
+          "client_id": "510831335763-kgoiinqebv0finvbdidcpsl6hs1vf9mf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAAkWOP79VlJQ3A0VaeKloRAsbumJToa08"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "510831335763-kgoiinqebv0finvbdidcpsl6hs1vf9mf.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "510831335763-115te0sqtvlb9m3bf55e1f8gqt4doikb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "kjf.constructDreamAdmin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
